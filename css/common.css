@@ -3,21 +3,29 @@
 	display:inline-block;
 	border: none;
 	cursor:pointer;
-	color: #fff;
 }
 .button-Our{
-	background-color: gray;
-	opacity: 0.8;
-	margin-left: 50%;
-	padding: 10px;
-	width:200px;
+	background-color: #262626;
+	margin-top: 30px;
+	margin-left: 80%;
+	padding: 20px 0px 20px 0px;
+	width:180px;
 	
 }
 
 .button-Learn{
+	color: #e6e6e6;
 	background-color: white;
-	opacity: 0.4;
-	margin-left: 0%;
-	padding: 10px;
-	width:200px;
+	opacity: 0.02;
+	margin-left: 10%;
+	margin-top: 30px;
+	padding: 20px 0px 20px 0px;
+	width:180px;
+}
+
+.button-Learnmore2{
+	background-color: #262626;
+	margin-top: 30px;
+	padding: 20px 0px 20px 0px;
+	width:180px;
 }
