@@ -6,7 +6,7 @@
  }
 
 /* Grid system */
-.container-fluid {
+.container-fluid {	 /* Se añadio container fluid */
 	width: 100%;
 }
 
